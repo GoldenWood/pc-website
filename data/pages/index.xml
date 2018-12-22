@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 Apr 2017 09:36:15 -0400</pubDate><title><![CDATA[PC Sleep - Schedule automatic shutdown, sleep, or hibernate your PC]]></title><url><![CDATA[index]]></url><meta><![CDATA[getsimple, easy, content management system]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;Thank you for using PC-Sleep.com.&lt;a href=&quot;/data/uploads/apps/pcsleepinstaller.zip&quot;&gt;&lt;img alt=&quot;Download PC Sleep&quot; src=&quot;/data/uploads/images/download.png&quot; style=&quot;float: right; width: 209px; height: 46px;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PC Sleep&lt;/strong&gt; is a free &lt;strong&gt;sleep timer&lt;/strong&gt; for your computer. You can leave your computer and PC Sleep will safely perform the selected function in the entered amount of time with no effort on your part. A noticeable pop-up window will appear when there is one minute left on the timer. The same window will pop-up if no time is selected; giving you 30 seconds to stop the timer before PC Sleep executes the selected function. This utility is particularly good for long downloads where you would like your computer to shut down after a certain amount of hours, playing music before you go to bed, or any other reason you might need PC Sleep to perform its functions while you&#039;re away from your computer.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Read more: &lt;a href=&quot;/what-is-the-difference-between-sleep-and-hibernate/&quot;&gt;What is the difference between sleep and hibernate?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href=&quot;/create-a-shutdown-timer-for-windows-with-hackers-way/&quot;&gt;How to create a shutdown timer for Windows with hacker&#039;s way&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Why you should use PC-Sleep?&lt;/h2&gt;
+
+&lt;p&gt;Even though your computer is still working, you might not want, or need, to be there while it finishes up the job at hand. PC Sleep is a simple tool that lets you shut down your computer at a specific time or within a specific time frame, so you can set it and walk away.&lt;/p&gt;
+
+&lt;h2&gt;Requirements:&lt;!--/h2--&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Operating Systems: &amp;nbsp;&lt;/em&gt; &amp;nbsp;Windows XP/2003/Vista/Server 2008/7/8/10&lt;br /&gt;
+	&lt;em&gt;Additional Requirements: &lt;/em&gt;&amp;nbsp; &amp;nbsp;&lt;strong&gt;Microsoft .NET Framework 4.0 &amp;nbsp;(Download at:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;a href=&quot;https://www.microsoft.com/net/download&quot;&gt;https://www.microsoft.com/net/download&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;PC Sleep 2.0&quot; src=&quot;/data/uploads/images/pssleeplogo.png&quot; style=&quot;width: 300px; height: 188px; float: left;&quot; /&gt;Installing PC Sleep requires a Dot Net Framework, but the process is simple. While it offers eye-friendly and mouse-friendly features, the small interface is designed to do the job as quickly and efficiently as possible in two basic steps: choosing the action you want to perform and choosing when you want it to happen. In addition to shutting down your computer, you can use PC Sleep to perform other related functions such as rebooting or logging off. As promised, a pop-up window appears before your PC shuts down, so you can halt the action if you&#039;re still working.&lt;/p&gt;
+
+&lt;p&gt;A minor issue with the tool&#039;s installation is that it will install a Start Menu icon without permission. Otherwise, it uninstalls cleanly. This is a simple tool designed to do a simple task. It doesn&#039;t offer any other bells and whistles, but PC Sleep works well and it costs you nothing to add to your toolbox.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/data/uploads/apps/pcsleepinstaller.zip&quot;&gt;&lt;img alt=&quot;Download PC Sleep&quot; src=&quot;/data/uploads/images/download.png&quot; style=&quot;float: right; width: 209px; height: 46px;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;How to use PC Sleep?&lt;/h2&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img alt=&quot;Pc Sleep Noteice&quot; src=&quot;/data/uploads/images/pc-sleep1.jpg&quot; style=&quot;width: 267px; height: 176px;&quot; /&gt;&lt;br /&gt;
+	PC Sleep Notice&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img alt=&quot;PC Sleep functions&quot; src=&quot;/data/uploads/images/pc-sleep2.jpg&quot; style=&quot;width: 292px; height: 317px;&quot; /&gt;&lt;br /&gt;
+	PC Sleep function select&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;img alt=&quot;PC Sleep settings&quot; src=&quot;/data/uploads/images/pc-sleep3.jpg&quot; style=&quot;width: 496px; height: 440px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;PC Sleep settings&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;a href=&quot;/data/uploads/apps/pcsleepinstaller.zip&quot;&gt;&lt;img alt=&quot;Download PC Sleep&quot; src=&quot;/data/uploads/images/download.png&quot; style=&quot;float: right; width: 209px; height: 46px;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;If you don&#039;t want use PC Sleep, you can get some apps like PC Sleep bellow:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4&gt;Final Countdown&lt;/h4&gt;
+
+&lt;blockquote&gt;Final Countdown is an advanced timer for windows PC´s.&lt;br /&gt;
+	&lt;strong&gt;Free&lt;br /&gt;
+	Windows&lt;/strong&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;System Cleaner&lt;/h4&gt;
+
+&lt;blockquote&gt;System Cleaner is a computer cleanup and performance increase software that keeps your PC running...&lt;br /&gt;
+	&lt;strong&gt;Commercial&lt;br /&gt;
+	Windows&lt;/strong&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;Free Countdown Timer&lt;/h4&gt;
+
+&lt;blockquote&gt;Free Countdown Timer is a free, full-featured and user-friendly countdown timer for Windows&lt;br /&gt;
+	&lt;strong&gt;Commercial&lt;br /&gt;
+	Mac&lt;/strong&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;MaxiVista&lt;/h4&gt;
+
+&lt;blockquote&gt;MaxiVista turns any spare PC into a second monitor for your main computer. Created by Bartels Media GmbH&lt;br /&gt;
+	&lt;strong&gt;Commercial&lt;br /&gt;
+	Windows&lt;/strong&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;iSleep&lt;/h4&gt;
+
+&lt;blockquote&gt;iSleep features a sleep timer coupled with an optional Alarm Clock for iTunes and DVD Player. Created by LostZone Software (Kevin Roettger &amp;amp; Thomas Deniau)&lt;br /&gt;
+	&lt;strong&gt;Commercial&lt;br /&gt;
+	Mac&lt;/strong&gt;&lt;/blockquote&gt;
+
+&lt;h4&gt;SleepBot Tracker Log&lt;/h4&gt;
+
+&lt;blockquote&gt;Sleep Bot is a resource tool to help you manage your sleep! Created by Insomniapps&lt;/blockquote&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[alibaba]]></author></item>

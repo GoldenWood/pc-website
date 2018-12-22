@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 Apr 2017 09:27:21 -0400</pubDate><title><![CDATA[What is the difference between sleep and hibernate?]]></title><url><![CDATA[what-is-the-difference-between-sleep-and-hibernate]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;&lt;strong&gt;Hibernate&lt;/strong&gt;.&amp;nbsp;&lt;strong&gt;Hibernate&amp;nbsp;mode&lt;/strong&gt; is very similar to&amp;nbsp;&lt;strong&gt;sleep&lt;/strong&gt;, but instead of saving your open documents and running applications to your RAM, it saves them to your hard disk. This allows your computer to turn off entirely, which means once your computer is inHibernate&amp;nbsp;mode, it uses zero power&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/data/uploads/should-you-shut-down-sleep-or-hibernate.jpg&quot; style=&quot;width: 100%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PC Sleep is a windows sleep timer. It&#039;s dedicated program on Windows. PC Sleep&amp;nbsp;will give you additional options, such as the ability to log out, hibernate, set an exact shutdown time or shut down after a length of inactivity.&lt;/p&gt;
+
+&lt;p&gt;Read more: &lt;a href=&quot;https://www.cnet.com/how-to/put-a-shutdown-timer-on-your-windows-desktop-with-this-command/&quot; target=&quot;_blank&quot;&gt;CNET write about PC Sleep&lt;/a&gt;&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[alibaba]]></author></item>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 24 Apr 2017 09:34:57 -0400</pubDate><title><![CDATA[Create a shutdown timer for Windows with hacker&#39;s way]]></title><url><![CDATA[create-a-shutdown-timer-for-windows-with-hackers-way]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;To create a shutdown timer manually, open Command Prompt and type the command&amp;nbsp;shutdown -s -t XXXX. The &quot;XXXX&quot; should be the time in seconds you want to elapse before the computer shuts down. For instance, if you want the computer to shut down in 2 hours, the command should look like:&amp;nbsp;&lt;/p&gt;
+
+&lt;pre&gt;shutdown -s -t 7200.&lt;/pre&gt;
+
+&lt;p&gt;If you want to restart your computer on a delay, use bellow command instead:&lt;/p&gt;
+
+&lt;pre&gt;shutdown -r -t XXXX&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;To cancel the timer&lt;/strong&gt;, open the Run window or Command Prompt again and enter&amp;nbsp;&lt;/p&gt;
+
+&lt;pre&gt;shutdown -a.&lt;/pre&gt;
+
+&lt;p&gt;Enjoy?&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[alibaba]]></author></item>
